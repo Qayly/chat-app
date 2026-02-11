@@ -1,0 +1,1 @@
+Firebase configuration for authentication and database initialization using environment variables
